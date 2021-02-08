@@ -1,3 +1,12 @@
+
+#my adding to the gitignore
+**/.gitkeep
+**/.DS_Store
+**/.ipynb_checkpoints
+
+
+
+# GitHub gitignore template 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
